@@ -7,7 +7,7 @@ This web application is designed as a News Blog application with Admin tools.
 | Language | % |
 | ------------- |:-------------:|
 | Java | 80 |
-| SQL | 20 |
+| SQL (MySql) | 20 |
 
 ## Screenshots
 <p>
