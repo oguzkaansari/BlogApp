@@ -1,4 +1,4 @@
-# Java Sql Servlet Web Application - Blog
+# Java Servlet Web Application - Blog
 
 This web application is designed as a News Blog application with Admin tools.
 
@@ -6,8 +6,9 @@ This web application is designed as a News Blog application with Admin tools.
 
 | Language | % |
 | ------------- |:-------------:|
-| Java | 80 |
+| Java | 60 |
 | SQL (MySql) | 20 |
+| HTML/CSS | 20 |
 
 ## Screenshots
 <p>
