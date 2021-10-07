@@ -1,6 +1,6 @@
-# Java Sql Servlet Web Application - Water Sales
+# Java Sql Servlet Web Application - Blog
 
-Açıklama.
+This web application is designed for a News Blog application that runs in the web.
 
 ## Languages Used
 
